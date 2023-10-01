@@ -10,3 +10,7 @@ export interface UnsplashedImage {
   width: number;
   height: number;
 }
+
+export interface UnsplashedSearchResponse {
+  results: UnsplashedImage[];
+}
