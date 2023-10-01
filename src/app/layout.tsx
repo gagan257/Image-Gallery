@@ -25,6 +25,9 @@ export default function RootLayout({
           <main>
             <Container className="py-4">{children}</Container>
           </main>
+          <footer className="text-center">
+            This App was Build by <a href="https://gagan.click/">Gagan Arora</a>
+          </footer>
         </SSRProvider>
       </body>
     </html>
