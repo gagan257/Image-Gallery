@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "functions": {
+    "/search": {},
+    "/dynamic": {},
+    "/isr": {},
+    "/static": {},
+    "/topics/[topic]": {}
+  }
+}
