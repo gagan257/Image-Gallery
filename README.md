@@ -9,7 +9,7 @@ npx create-next-app@latest
 This creates latest version of nextJS Application
 
 ```
-npm install react-bootstrap
+npm install react-bootstrap nextjs-toploader
 ```
 
 ## Details of packages for this project
